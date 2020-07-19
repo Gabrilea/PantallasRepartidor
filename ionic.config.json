@@ -1,0 +1,7 @@
+{
+  "name": "repartidor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
